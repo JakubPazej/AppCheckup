@@ -4,6 +4,8 @@
 +	Does executing `java -version` on command line/command prompt return 1.8 or greater?
 +	If not, please install Java 8+ and make it the default.
 2.  #### Install APKTool
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Note - You can also decompile an `.apk` manually by renaming the file name extension from `.apk` to `.rar` and extracting it.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Note - Wrapper scripts are not needed, but helpful so you do not have to type `java -jar apktool.jar` over and over.
 +   Windows 
     *	Download Windows [wrapper script](https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/windows/apktool.bat) (Right click, Save Link As apktool.bat)
